@@ -15,4 +15,4 @@
 # Parcial 3 - Flutter
 [flutter-apps](https://docs.google.com/presentation/d/1Xn-Iebnz6VJjj-mxd_pcrse9oqOg-kbV-eU-L5dP4zI/edit?usp=sharing)
 [graphql-api](https://www.howtographql.com/graphql-python/0-introduction/)
-[deploy graphq](https://docs.google.com/presentation/d/1ZJoOuOaTiP_luvME3NV-gcR_inXC-Tyu/edit?slide=id.p1#slide=id.p1)
+[deploy graphql-api](https://docs.google.com/presentation/d/1ZJoOuOaTiP_luvME3NV-gcR_inXC-Tyu/edit?slide=id.p1#slide=id.p1)
